@@ -1,1 +1,1 @@
-Complete tutorial in [https://aronhack.com/send-push-notifications-with-line-notify-api-and-python/](https://aronhack.com/send-push-notifications-with-line-notify-api-and-python/)
+Complete tutorial in [*Send Push Notifications With LINE Notify API And Python*](https://aronhack.com/send-push-notifications-with-line-notify-api-and-python/)
